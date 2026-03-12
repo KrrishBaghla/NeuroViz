@@ -8,7 +8,6 @@ A beautiful Streamlit web app for visualizing neural network training using the 
 - 📊 **Live Loss Visualization** - Watch the loss decrease as the network learns
 - ⚙️ **Customizable Hyperparameters** - Adjust epochs, learning rate, and hidden layers
 - 🎯 **Real-time Predictions** - See model predictions on test inputs
-- 🚀 **Automatic Differentiation** - Powered by custom micrograd engine
 
 ## Project Structure
 
