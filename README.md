@@ -77,9 +77,6 @@ In the sidebar, you can adjust:
 - **Matplotlib** - Visualization
 - **Micrograd** - Custom automatic differentiation engine
 
-## License
-
-MIT License
 
 ## Author
 
