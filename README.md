@@ -1,6 +1,9 @@
 # NeuroViz - Micrograd Neural Network Visualizer
 
-A beautiful Streamlit web app for visualizing neural network training using the **Micrograd** framework.
+A Streamlit web app for visualizing neural network training using the **Micrograd** framework.
+
+# Website
+View the hosted version at: https://neuroviz.streamlit.app/
 
 ## Features
 
