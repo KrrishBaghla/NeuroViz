@@ -3,7 +3,7 @@
 A Streamlit web app for visualizing neural network training using the **Micrograd** framework.
 
 # Website
-View the hosted version at: https://neuroviz.streamlit.app/
+View the hosted version at: <a href="https://neuroviz.streamlit.app/" target="_blank">neuroviz.streamlit.app</a>
 
 ## Features
 
